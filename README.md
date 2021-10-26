@@ -1,1 +1,1 @@
-# Streamlink.sol
+# Streamlink
